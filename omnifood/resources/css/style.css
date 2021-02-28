@@ -361,7 +361,7 @@ header
 .box img
 {
     width:100%;
-    height auto;
+    height:auto;
     margin-bottom: 15px;
 }
 .city-feature
@@ -436,7 +436,6 @@ cite img
 {
     text-align: center;
     border:0;
-    height:
 }
 .plan-price
 {
