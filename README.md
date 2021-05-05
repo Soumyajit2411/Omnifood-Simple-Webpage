@@ -9,9 +9,6 @@ To check the course please visit the link below-
 
 https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/
 
-To check the omnifood website made by me click the link below:
-
-https://soumyajit2411.github.io/Build-Responsive-Real-World-Websites-with-HTML5-and-CSS3/omnifood/index.html
 
 The site also uses subtle animations using jQuery. Another version will make use of different tools/ languages to enhance the landing page's performance and development time. 
 
